@@ -2,7 +2,6 @@
 from tkinter import *
 
 fileturtle = r"C:\Users\Zeecka\Desktop\IUT\24H INFO 2016\Epreuve Secu\tortue.txt"
-outputFlag = r"C:\Users\Zeecka\Desktop\IUT\24H INFO 2016\Epreuve Secu\flag.png"
 
 fen = Tk() # Instanciate windows
 
