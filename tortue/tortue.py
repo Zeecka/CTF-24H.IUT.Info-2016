@@ -1,24 +1,27 @@
 # -*- coding: utf-8 -*-
 from tkinter import *
 
-fichier = r"C:\Users\Zeecka\Desktop\IUT\24H INFO 2016\Epreuve Secu\tortue.txt"
-fen = Tk()
+fileturtle = r"C:\Users\Zeecka\Desktop\IUT\24H INFO 2016\Epreuve Secu\tortue.txt"
+outputFlag = r"C:\Users\Zeecka\Desktop\IUT\24H INFO 2016\Epreuve Secu\flag.png"
 
-ecran=Canvas(fen, bg="#d0d0d0", height=1000, width=1000)
-ecran.pack(expand=YES, fill=BOTH)
+fen = Tk() # Instanciate windows
 
-X = 250
-Y = 250
+screen=Canvas(fen, bg="#d0d0d0", height=250, width=1200)
+screen.pack(expand=YES, fill=BOTH)
 
-with open(fichier) as f:
-	for elt in f:
-		for caract in list(elt):
-			ecran.create_rectangle(X-1,Y-1,X+1,Y+1,fill="black",outline="black")
-			if(caract == ">"):
+X = 100 # Start X
+Y = 100 # Start Y
+
+with open(fileturtle) as f: # Open File
+	for elt in f: # Parse Line
+		for caract in list(elt): # Parse char
+			if(caract == ">"): # Move to Right
 				X += 2
-			elif(caract == "<"):
+			elif(caract == "<"): # Move to Left
 				X -= 2
-			elif(caract == "^"):
+			elif(caract == "^"): # Move to Top
 				Y -= 2
-			elif(caract == "v"):
+			elif(caract == "v"): # Move to Bottom
 				Y += 2
+			screen.create_rectangle(X-1,Y-1,X+1,Y+1,fill="black",outline="black") # Write Current Pixel
+fen.mainloop()
