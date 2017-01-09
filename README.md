@@ -5,7 +5,7 @@ This "security" par was a CTF with Web, Reverse, Stegano...
 
 I sadly could not recover all of the challenges and the associated points.
 
-$( I made all of the write-up #Zeecka )
+>( I made all of the write-up #Zeecka )
 
 Have a nice reading ;) !
 
@@ -16,6 +16,6 @@ Cette partie "sécurité" était un CTF, proposant Web, Reverse, Stegano...
 
 Je n'ai malheureusement pas pu récupérer toute les épreuves ni les points associés.
 
-$( Les corrections sont de moi-même #Zeecka )
+>( Les corrections sont de moi-même #Zeecka )
 
 Bonne lecture ;) !
