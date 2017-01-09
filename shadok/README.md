@@ -1,6 +1,6 @@
 #[EN]Stegano - Pompe
 
-There was given a file called "![pompe.png]("pompe.png")"
+There was given a file called "![pompe.png](pompe.png)"
 ![pompe.png](pompe.png "pompe.png")
 
 I decided to analyze it with StegSolve 1.3 by Caesum and found words written on the 2 last red bits ![lsbred.png]("lsbred.png"):
@@ -45,7 +45,7 @@ For this, I used http://www.binaryhexconverter.com/binary-to-ascii-text-converte
 
 #[FR]Stegano - Pompe
 
-Le fichier dont nous disposions s'appelait "![pompe.png]("pompe.png")"
+Le fichier dont nous disposions s'appelait "![pompe.png](pompe.png)"
 ![pompe.png](pompe.png "pompe.png")
 
 J'ai décidé de l'analyser avec StegSolve 1.3 by Caesum et j'ai trouvé des mots écrits sur les 2 derniers bits rouge ![lsbred.png]("lsbred.png"):
