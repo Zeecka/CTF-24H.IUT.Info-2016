@@ -1,6 +1,6 @@
 #Stegano - Pompe
 
-There was given a file called "![pompe.png](pompe.png"pompe.png")"
+There was given a file called "![pompe.png]("pompe.png")"
 
 ![pompe.png](pompe.png "pompe.png")
 
