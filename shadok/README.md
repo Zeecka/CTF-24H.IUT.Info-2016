@@ -2,7 +2,7 @@
 
 There was given a file called "pompe.png"
 
-![pompe.png](https://github.com/Zeecka/CTF-24H.IUT.Info-2016/tree/master/shadok/pompe.png)
+![pompe.png](pompe.png "pompe.png")
 
 
 
