@@ -48,7 +48,7 @@ For this, I used http://www.binaryhexconverter.com/binary-to-ascii-text-converte
 Le fichier dont nous disposions s'appelait pompe.png :
 ![pompe.png](pompe.png "pompe.png")
 
-J'ai décidé de l'analyser avec StegSolve 1.3 by Caesum et j'ai trouvé des mots écrits sur les 2 derniers bits rouge (lsbred.png"):
+J'ai décidé de l'analyser avec StegSolve 1.3 by Caesum et j'ai trouvé des mots écrits sur les 2 derniers bits rouge (lsbred.png):
 
 
 ![lsbred.png](lsbred.png "lsbred.png")
