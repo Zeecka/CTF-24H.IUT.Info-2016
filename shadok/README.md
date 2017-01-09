@@ -1,6 +1,6 @@
 #[EN]Stegano - Pompe
 
-There was given a file called ![pompe.png](pompe.png "pompe.png")
+There was given a file called ![pompe.png]("ddd")
 ![pompe.png](pompe.png "pompe.png")
 
 I decided to analyze it with StegSolve 1.3 by Caesum and found words written on the 2 last red bits ![lsbred.png]("lsbred.png"):
