@@ -1,12 +1,12 @@
 #Stegano - Pompe
 
-There was given a file called "![pompe.png](pompe.png "pompe.png")"
+There was given a file called "![pompe.png](pompe.png)"
 
 ![pompe.png](pompe.png "pompe.png")
 
 I decided to analyse it with StegSolve 1.3 by Caesum and found words written on the 2 last red bits:
 
-"![lsbred.png](lsbred.png "lsbred.png")"
+"![lsbred.png](lsbred.png)"
 ![lsbred.png](lsbred.png "lsbred.png")
 
 Here is the witted message:
