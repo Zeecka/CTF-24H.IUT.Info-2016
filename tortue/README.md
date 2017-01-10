@@ -13,8 +13,8 @@ move 2px in the direction indicated by the current char and draw a 2x2 px square
 
 The script is avaible here : ![tortue.py](tortue.py)
 
-Screenshot of the flag diplayed by Canvas : ![tortue.png]("tortue.png")
-![tortue.png](flag.png "flag.png")
+Screenshot of the flag diplayed by Canvas : "flag.png"
+![flag.png](flag.png "flag.png")
 #[FR] Tortue
 Le titre de ce challenge était "Tortue".
 
@@ -30,5 +30,5 @@ bougé de 2 px dans la position indiquée par le caractère courant afin de dés
 
 Le script est disponible ici: ![tortue.py](tortue.py)
 
-Capture d'écran du flag affiché par le Canvas : ![tortue.png]("tortue.png")
-![tortue.png](flag.png "flag.png")
+Capture d'écran du flag affiché par le Canvas : flag.png
+![flag.png](flag.png "flag.png")
