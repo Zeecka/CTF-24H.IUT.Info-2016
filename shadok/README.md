@@ -41,6 +41,7 @@ Then I converted it to Ascii
 For this, I used http://www.binaryhexconverter.com/binary-to-ascii-text-converter :
 
 >P0urqu01F4ir
+
 ("Pourquoi Faire" mean "Why" / "To do what" in french. It refers to "Pourquoi faire simple quand on peut faire compliqué" which means "Why make it simple when you can make it complicated")
 
 #[FR]Stegano - Pompe
@@ -86,5 +87,5 @@ Enfin, je l'ai converti en Ascii
 Pour ce challenge, j'ai utilisé http://www.binaryhexconverter.com/binary-to-ascii-text-converter :
 
 >P0urqu01F4ir
-("Pourquoi Faire" fait référence au proverbe Shadok "Pourquoi faire simple quand on peut faire compliqué")
 
+("Pourquoi Faire" fait référence au proverbe Shadok "Pourquoi faire simple quand on peut faire compliqué")
