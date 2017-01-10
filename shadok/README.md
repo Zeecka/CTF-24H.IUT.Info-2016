@@ -8,7 +8,7 @@ I decided to analyze it with StegSolve 1.3 by Caesum and found words written on 
 
 ![lsbred.png](lsbred.png "lsbred.png")
 
-Here is the witted message:
+Here is the writted message:
 
 >BU BU GA GA GA MEU GA GA BU
 >MEU BU BU BU MEU GA ZO BU
