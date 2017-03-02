@@ -1,5 +1,3 @@
-from PIL import Image
-
 cle = 'vcqztxhdwiukgordbsm'
 passwd = [16, 15, 16, 29, 29, 22, 30, 1, 5, 26, 16, 1, 6, 25, 19, 86, 86, 93, 92]
 
