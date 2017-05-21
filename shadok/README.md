@@ -1,4 +1,4 @@
-#[EN]Stegano - Pompe
+# [EN]Stegano - Pompe
 
 There was given a file called pompe.png :
 ![pompe.png](pompe.png "pompe.png")
@@ -44,7 +44,7 @@ For this, I used http://www.binaryhexconverter.com/binary-to-ascii-text-converte
 
 ("Pourquoi Faire" mean "Why" / "To do what" in french. It refers to "Pourquoi faire simple quand on peut faire compliqué" which means "Why make it simple when you can make it complicated")
 
-#[FR]Stegano - Pompe
+# [FR]Stegano - Pompe
 
 Le fichier dont nous disposions s'appelait pompe.png :
 ![pompe.png](pompe.png "pompe.png")
